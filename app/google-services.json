@@ -1,0 +1,248 @@
+{
+  "project_info": {
+    "project_number": "870721101694",
+    "project_id": "moto-control-a2086",
+    "storage_bucket": "moto-control-a2086.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870721101694:android:8f1310801afcddb38e5d2f",
+        "android_client_info": {
+          "package_name": "com.b3insights.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870721101694-3bfpotgok6uc97c5qqbdmfv9moecp1k9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.b3insights.app",
+            "certificate_hash": "69bcb91965f59fa2999583492c7de2278c3f09a1"
+          }
+        },
+        {
+          "client_id": "870721101694-rggeogrpeebja2euof36n8o8u6783fn8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.b3insights.app",
+            "certificate_hash": "0ec5ff38f76695b230e653a792a07ce291743bc0"
+          }
+        },
+        {
+          "client_id": "870721101694-0faac8rdrjnfl8pu2hm8sgljl4ckeuok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChV57hZ8eBOuAW3QVWkdeOR3Igk1Q3mC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870721101694-0faac8rdrjnfl8pu2hm8sgljl4ckeuok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870721101694:android:a9552e1ddf5e46518e5d2f",
+        "android_client_info": {
+          "package_name": "com.lastrufas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870721101694-2o9g8mmhegfs8ps3l7mk8g3clm2oue2v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lastrufas",
+            "certificate_hash": "0ec5ff38f76695b230e653a792a07ce291743bc0"
+          }
+        },
+        {
+          "client_id": "870721101694-0faac8rdrjnfl8pu2hm8sgljl4ckeuok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChV57hZ8eBOuAW3QVWkdeOR3Igk1Q3mC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870721101694-0faac8rdrjnfl8pu2hm8sgljl4ckeuok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870721101694:android:808a7f78447f03e88e5d2f",
+        "android_client_info": {
+          "package_name": "com.marcus.financeiro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870721101694-2uvcombci7eknmpnifaaco843pi4boi3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.marcus.financeiro",
+            "certificate_hash": "0ec5ff38f76695b230e653a792a07ce291743bc0"
+          }
+        },
+        {
+          "client_id": "870721101694-0faac8rdrjnfl8pu2hm8sgljl4ckeuok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChV57hZ8eBOuAW3QVWkdeOR3Igk1Q3mC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870721101694-0faac8rdrjnfl8pu2hm8sgljl4ckeuok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870721101694:android:0ebda9ea6a33ef368e5d2f",
+        "android_client_info": {
+          "package_name": "com.marcus.minhaagenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870721101694-js7n0s8obr71161dt55dna5ueremddug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.marcus.minhaagenda",
+            "certificate_hash": "0ec5ff38f76695b230e653a792a07ce291743bc0"
+          }
+        },
+        {
+          "client_id": "870721101694-0faac8rdrjnfl8pu2hm8sgljl4ckeuok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChV57hZ8eBOuAW3QVWkdeOR3Igk1Q3mC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870721101694-0faac8rdrjnfl8pu2hm8sgljl4ckeuok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870721101694:android:ec9f8f1a413563e98e5d2f",
+        "android_client_info": {
+          "package_name": "com.marcus.myfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870721101694-hfc68123gt94tulcr3qva3rfna63u69g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.marcus.myfit",
+            "certificate_hash": "0ec5ff38f76695b230e653a792a07ce291743bc0"
+          }
+        },
+        {
+          "client_id": "870721101694-0faac8rdrjnfl8pu2hm8sgljl4ckeuok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChV57hZ8eBOuAW3QVWkdeOR3Igk1Q3mC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870721101694-0faac8rdrjnfl8pu2hm8sgljl4ckeuok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870721101694:android:9184c96ad3d56e428e5d2f",
+        "android_client_info": {
+          "package_name": "com.motocontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870721101694-4lv67o32naj2ug5vb80vcd8d6jcke7k6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.motocontrol",
+            "certificate_hash": "0ec5ff38f76695b230e653a792a07ce291743bc0"
+          }
+        },
+        {
+          "client_id": "870721101694-iccnng9tuem3ulsunh0iqtca5diqk37i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.motocontrol",
+            "certificate_hash": "69bcb91965f59fa2999583492de7c2278f3c09a1"
+          }
+        },
+        {
+          "client_id": "870721101694-0faac8rdrjnfl8pu2hm8sgljl4ckeuok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChV57hZ8eBOuAW3QVWkdeOR3Igk1Q3mC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870721101694-0faac8rdrjnfl8pu2hm8sgljl4ckeuok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

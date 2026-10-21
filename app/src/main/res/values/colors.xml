@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navy_dark">#0B2447</color>
+    <color name="blue_primary">#2F6FED</color>
+    <color name="blue_light">#EAF1FF</color>
+    <color name="green_positive">#1E9E5A</color>
+    <color name="green_positive_bg">#E7F7EE</color>
+    <color name="red_negative">#E23D3D</color>
+    <color name="red_negative_bg">#FDEBEB</color>
+    <color name="background_white">#FFFFFF</color>
+    <color name="surface_card">#F7F9FC</color>
+    <color name="text_primary">#16213E</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="divider">#EAECF0</color>
+</resources>

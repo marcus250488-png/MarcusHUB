@@ -1,0 +1,10 @@
+# Copie este arquivo para "local.properties" (na raiz do projeto).
+# O AndroidIDE geralmente preenche sdk.dir sozinho.
+
+# sdk.dir=/caminho/para/o/android-sdk
+
+# Token da brapi.dev (plano gratuito). Sem ele, busca e perfil da empresa
+# ficam só no Yahoo. Dividendos NÃO vêm da brapi no plano grátis.
+BRAPI_API_TOKEN=
+
+# google-services.json (Firebase) deve ficar em app/google-services.json
